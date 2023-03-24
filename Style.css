@@ -11,6 +11,8 @@ body{
     height: 650px;
     background-color: white;
     border-radius: 20px;
+    position: absolute;
+    top: 25%;
 }
 img{
     border-radius: 20px;
